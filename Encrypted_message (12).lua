@@ -1,3 +1,4 @@
+
 local VirtualInputManager = game:GetService("VirtualInputManager")
 
 if getgenv().Lurk.Start.UnlockFPS then
